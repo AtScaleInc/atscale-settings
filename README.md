@@ -1,1 +1,2 @@
-# atscale-settings
+# AtScale Global Settings Example
+The AtScale Semantic Layer platform creates a logical, business-friendly view of your data. This repository contains an example `global_settings.yml` file for specifying global settings for the AtScale Semantic Layer platform. AtScale's semantic layer platform leverages the [Semantic Modeling Language (SML)](https://github.com/semanticdatalayer/SML). Please see this repository for more information about SML.
