@@ -8,3 +8,6 @@ overrides:
     "connection.pool.user.idleConnectionDuration": "6 hours"
     "connection.pool.idleConnectionDuration": "6 hours"
     "databricks.querycache.disable": "true"
+    "aggregates.withDistinctCounts.widening.enabled": "true"
+    "aggregates.create.withDistinctCounts.queryLevel.enabled": "true"
+
