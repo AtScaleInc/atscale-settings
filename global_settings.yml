@@ -4,3 +4,4 @@ overrides:
     "aggregates.create.enabled": "false"
     "bigquery.syncQuery.timeout": "0 seconds"
     "query.cache.eviction.entryAge": "0 minutes"
+    "feature.support-bundle.new-ui.enabled": "true"
