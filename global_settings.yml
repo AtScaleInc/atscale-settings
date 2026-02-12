@@ -8,4 +8,6 @@ overrides:
     "aggregates.create.withDistinctCounts.queryLevel.enabled": "true"
     "query.factless.ignoreIncidentalFilter": "false"
     "connection.pool.user.idleConnectionDuration": "6 hours"
-    "connection.pool.idleConnectionDuration": "6 hours"
+    "connection.pool.idleConnectionDuration": "6 hours"   
+    query.language.dax.bypassIsBlank: true
+    query.result.max_rows: 4
