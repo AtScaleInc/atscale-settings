@@ -4,3 +4,4 @@ overrides:
     "query.includeComments.general.queryId": "true"
     "aggregates.create.enabled": "false"
     "feature.support-bundle.new-ui.enabled": "true"
+    "pgwire.ignore.drop.temp.table.queries": "true"
