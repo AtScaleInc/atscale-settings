@@ -1,4 +1,3 @@
 object_type: global_settings
 overrides:
-    "xmla.auth.token.enable": "true"
-    "aggregates.create.allowExactDistinctCountMeasures.enable": "true"
+  "xmla.auth.token.enable": "true"
