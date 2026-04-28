@@ -1,4 +1,5 @@
 object_type: global_settings
 overrides:
-    redis.host: redis
-    redis.port: 6379
+  # redis.host: redis
+  redis.host: apps-aws-redis-master.apps-aws.svc.cluster.local
+  redis.port: 6379
