@@ -9,4 +9,5 @@ overrides:
     "query.factless.ignoreIncidentalFilter": "false"
     "connection.pool.user.idleConnectionDuration": "6 hours"
     "connection.pool.idleConnectionDuration": "6 hours"
+    "idp.token.audience": "2ff814a6-3304-4ab8-85cb-cd0e6f879c1d/.default"
 
