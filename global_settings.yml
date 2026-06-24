@@ -5,3 +5,4 @@ overrides:
     "aggregates.create.enabled": "false"
     "feature.support-bundle.new-ui.enabled": "true"
     "pgwire.ignore.drop.temp.table.queries": "true"
+    "query.result.max_rows": "5"
