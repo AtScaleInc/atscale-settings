@@ -6,4 +6,5 @@ overrides:
     "query.cache.eviction.entryAge": "0 minutes"
     "feature.support-bundle.new-ui.enabled": "true"
     "soap.xpress.enabled": "true"
+    "soap.binxml.enabled": "false"
     "xmla.auth.token.enabled": "true"
