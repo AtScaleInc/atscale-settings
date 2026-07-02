@@ -8,3 +8,4 @@ overrides:
     "soap.xpress.enabled": "true"
     "soap.binxml.enabled": "false"
     "xmla.auth.token.enabled": "true"
+    "schemas.maxParseDuration": "10 minutes"
