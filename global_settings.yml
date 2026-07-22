@@ -1,12 +1,6 @@
 object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
-    "xmla.discover.properties.daxdialect": "tabular"
-    "aggregates.create.allowExactDistinctCountMeasures.enabled": "true"
-    "aggregates.prediction.checkForNonAdditiveMeasuresAndConstraints.enabled": "false"
-    "aggregates.withDistinctCounts.widening.enabled": "true"
-    "aggregates.create.withDistinctCounts.queryLevel.enabled": "true"
-    "connection.pool.user.idleConnectionDuration": "6 hours"
-    "connection.pool.idleConnectionDuration": "6 hours"  
-    "query.result.max_rows": "5" 
+    "metadataExport.driver.type": "postgres"
+ 
 
