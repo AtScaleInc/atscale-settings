@@ -1,7 +1,7 @@
 object_type: global_settings
 overrides:
     "xmla.auth.token.enabled": "true"
-    "AGGREGATE.SPECULATIVE.ENABLED": "false"
+    "aggregate.speculative.enabled": "false"
     "sml.environment.variables" : 
       LABEL=Postgres
       CONNECTION="dev"
