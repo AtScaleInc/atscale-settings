@@ -4,7 +4,7 @@ overrides:
     "aggregate.speculative.enabled": "false"
     "aggregates.configuration.maximum_concurrent_materializations": 5
     "sml.environment.variables" : 
-      LABEL=Postgres
+      LABEL="Postgres"
       CONNECTION="dev"
       DB_NAME="ATSCALE_SAMPLE_DATA"
       DB_SCHEMA="as_adventure"
