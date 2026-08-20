@@ -1,5 +1,6 @@
 object_type: global_settings
 overrides:
+    "sml.validation.queries.enabled": "false"
     "xmla.auth.token.enabled": "true"
     "aggregate.speculative.enabled": "false"
     "aggregates.configuration.maximum_concurrent_materializations": 5
