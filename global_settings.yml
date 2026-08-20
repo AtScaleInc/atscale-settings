@@ -8,5 +8,5 @@ overrides:
       LABEL="Postgres"
       CONNECTION="dev"
       DB_NAME="ATSCALE_SAMPLE_DATA"
-      DB_SCHEMA="as_adventure"
+      DB_SCHEMA="atscale"
 
