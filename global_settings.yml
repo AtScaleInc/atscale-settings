@@ -11,5 +11,5 @@ overrides:
       CONNECTION2="uat"
       DB_NAME="ATSCALE_SAMPLE_DATA"
       DB_SCHEMA="as_adventure"
-      DB_NAME2="ATSCALE_SAMPLE_DATA"
+      DB_NAME2="atscale_turorial_data"
       DB_SCHEMA2="as_adventure
